@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T09:39:59.138Z" agent="5.0 (X11)" version="14.9.3" etag="2L1l87Zv96ugrhDPGqTN" type="github"><diagram id="D-Xrxc_EeibuO7AjzBAe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-03T09:52:25.710Z" agent="5.0 (X11)" etag="fvfwXvw2Gjl4Rb1hwT-V" version="14.9.3" type="github">
+  <diagram id="D-Xrxc_EeibuO7AjzBAe" name="Page-1">
+    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lR9ITCN6BOcDZ2PFoA_6-1" target="lR9ITCN6BOcDZ2PFoA_6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="195.22" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lR9ITCN6BOcDZ2PFoA_6-2" target="lR9ITCN6BOcDZ2PFoA_6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="123.25" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lR9ITCN6BOcDZ2PFoA_6-3" target="lR9ITCN6BOcDZ2PFoA_6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="148.95" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/AWS_Simple_Icons_Compute_Amazon_EC2_AMI.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_AMI.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="890" y="215" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="330" width="50.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="653.8" y="510" width="81.35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="660.48" y="430" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-18" value="&lt;b&gt;Trigger&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-19" value="&lt;b&gt;Execute&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-20" value="&lt;b&gt;Bake&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lR9ITCN6BOcDZ2PFoA_6-21" value="&lt;b&gt;Jenkins Slave New AMI&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="410" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
