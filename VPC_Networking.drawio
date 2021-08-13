@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T02:44:14.807Z" agent="5.0 (X11)" etag="eL8wZGMoVlo1ZnzsXonS" version="14.9.6" type="github"><diagram id="kQUDaVLGjMdZZQxLum1f" name="Page-1">3ZZrb5swFIZ/DVL3IRPGCUk/LizrqqoXJbtU+2ZhF9waDjJOIf31OzTmFqi0Sc0UTQhhv+f4wvPaYIcGSXmhWRZfAxfK8VxeOvSz43nEnXr4qJTdXvGpFSItuU1qhY18EXVLq24lF3kv0QAoI7O+GEKaitD0NKY1FP20B1D9UTMWiYGwCZkaqj8lN/FeXczcVv8qZBTXIxPXRhJWJ1shjxmHoiPRlUMDDWD2paQMhKrg1Vz27b68EW0mpkVq/qTB/XqxfARWBre/Ft/gu7q8v1pPbC/PTG3tC9vJml1NQMM25aLqhDh0WcTSiE3GwipaoOeoxSZRNmy7E9qI8s15kubtcdkISITRO0ypG9TA7IpZ2GrR4p+fWy3uoJ/WicxaHjVdt1SwYMH8BSTvBCHRPqQGWpfSbIwSPRal6YDSenVxeXuD2tk2nwiWmwn5MCCHDEwfT240PIkAFGhUUkgxc/kglTqQmJJRitUQmQnUlxVRiVv3kw0kkvNqmFE/Wsfcd7Jk3rfkfOhI41LXEe9YhswGhvy4Cyo3kt1zFqIT7gRv4n58vXAI4v/H7vgHG4aO2DP/l/b4J/hVOVjCZGQNU38EEjkapfnpU6Ijf6h3o4TV9ojwGusctOjqNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-13T02:56:47.844Z" agent="5.0 (X11)" etag="S3iBmTzhS0lsFhMCCLZx" version="14.9.6" type="github">
+  <diagram id="kQUDaVLGjMdZZQxLum1f" name="Page-1">
+    <mxGraphModel dx="1042" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XR8BjoaxCOZ8ToUlIXKR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="880" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XR8BjoaxCOZ8ToUlIXKR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="820" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XR8BjoaxCOZ8ToUlIXKR-4" value="REGION (us-east-1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="90" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XR8BjoaxCOZ8ToUlIXKR-5" value="VPC (myvpc) - 10.0.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="130" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XR8BjoaxCOZ8ToUlIXKR-6" target="AlTpinKOk71q33sosyg4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XR8BjoaxCOZ8ToUlIXKR-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="190" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XR8BjoaxCOZ8ToUlIXKR-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="360" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-1" value="Public subnet - 10.0.1.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="205" y="230" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-4" value="Instance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-5" value="SECURITY GROUP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="205" y="410" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-8" value="Private subnet - 10.0.2.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-9" value="Instance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-11" value="SECURITY GROUP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="295" y="410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="220" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-16" value="NAT Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="AlTpinKOk71q33sosyg4-17" target="AlTpinKOk71q33sosyg4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-17" value="NACL" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="570" y="165" width="70" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="AlTpinKOk71q33sosyg4-18" target="AlTpinKOk71q33sosyg4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-18" value="&lt;font color=&quot;#FFFFFF&quot;&gt;ROUTE TABLE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="345" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-26" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AlTpinKOk71q33sosyg4-6" target="AlTpinKOk71q33sosyg4-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="390" as="sourcePoint" />
+            <mxPoint x="330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="AlTpinKOk71q33sosyg4-27" target="AlTpinKOk71q33sosyg4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-27" value="&lt;font color=&quot;#330000&quot;&gt;ROUTER&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58534;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="811" y="300" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-29" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="940" y="300" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="AlTpinKOk71q33sosyg4-32" value="Internet Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="934.5" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
